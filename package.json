@@ -1,0 +1,16 @@
+{
+  "name": "mcserver",
+  "version": "1.0.1",
+  "description": "HyStats Verification MC Server",
+  "main": "mcserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HyStats",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "minecraft-protocol": "^1.22.0",
+    "mysql": "^2.18.1"
+  }
+}
