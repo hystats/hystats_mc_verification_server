@@ -6,5 +6,8 @@ HyStats MC server used to verify ownership of Minecraft accounts
 npm install
 ```
 - Pull files from this repo and fill out `.env`.
+```
+git clone https://github.com/hystats/hystats_mc_verification_server
+```
 ## How to run
 - Run the Node script `mcserver.js`
